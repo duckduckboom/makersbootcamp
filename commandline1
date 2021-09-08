@@ -1,0 +1,19 @@
+date - shows the date
+oisinpower@Oisins-Air ~ % date
+Tue  7 Sep 2021 14:17:17 BST
+
+ls - list - will show everything in the current directory
+oisinpower@Oisins-Air ~ % ls
+Desktop		Downloads	Movies		Pictures
+Documents	Library		Music		Public
+
+cd *FILENAME* - change directory to *FILENAME*
+oisinpower@Oisins-Air ~ % ls
+Desktop		Downloads	Movies		Pictures
+Documents	Library		Music		Public
+
+A single dot '.' represents the directory I'm currently in and '..' represents the parent directory. So "cd .." will change directory to the home directory.
+
+pwd - print working directory
+oisinpower@Oisins-Air ~ % pwd
+/Users/oisinpower
